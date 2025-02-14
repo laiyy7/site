@@ -1,0 +1,13 @@
+﻿.xj_hide {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  /* 控制文本行数 */
+  -webkit-box-orient: vertical;
+}
+
+.section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
